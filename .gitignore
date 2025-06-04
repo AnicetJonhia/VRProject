@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Dependency directories
+jspm_packages/
+# Build outputs
+build/
+dist/
+# React 360 bundler cache
+.bundle/
+# Static assets générés (si vous en avez)
+static_assets/*.asset
+# OS files
+.DS_Store
+Thumbs.db
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+# Env files
+.env
+# NPM lock
+package-lock.json
+# Yarn lock (si vous ne l'utilisez pas)
+yarn.lock
+# Cache directories
+.cache/
+# Coverage reports
+coverage/
+# Misc
+*.log
+npm-debug.log*
+*.tmp
