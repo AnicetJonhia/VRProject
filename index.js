@@ -12,7 +12,7 @@ export default class VRProject extends React.Component {
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
           <Text style={styles.greeting}>
-            Welcome to React 360
+            Testing React 360
           </Text>
         </View>
       </View>
